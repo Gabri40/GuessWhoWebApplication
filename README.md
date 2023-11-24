@@ -1,8 +1,8 @@
 # Exam #3: "INDOVINA CHI"
 
-Simple Guess-Who web application developed for the course "Applicazioni Web I" at Politecnico di Torino.
+**Score of the project : 30L/30**
 
-Sore of the project : 30L/30
+Simple Guess-Who web application developed for the course "Applicazioni Web I" at Politecnico di Torino.
 
 ## React Client Application Routes
 
